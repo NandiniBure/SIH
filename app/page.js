@@ -21,8 +21,8 @@ export default function Home() {
   return (
     <div className="bg-lime-100">
         <Header/>
-       <FeedBackOne/>
-         {/* <Footer/> */}
+     <BlogDetails/>
+        <Footer/>
     </div>
   )
 }
