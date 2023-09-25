@@ -22,10 +22,13 @@ const BlogDetails = () => {
         </div>
         <div className='lg:flex'>
         <div className=' mt-5 p-2'>
-            <p className=' text-center text-base'>The Women’s Reservation Bill,  named the ‘Nari Shakti Vandan Adhiniyam’ has been passed by the Parliament. The 128th amendment to the Indian Constitution, it is set to expand women’s participation in politics and policymaking at the state and national level. It will certainly create conditions for more women to lead, and catalyse a deeper democracy,  a hope expressed by Prime Minister Narendra Modi. It will redefine the nature of political action, and will make politics more truly representative.
-
-Here, I assess the mobilisational impact of women’s reservation in electoral politics, especially in the 2024 parliamentary election.
-As various electoral results show,  the BJP led by PM Narendra Modi has been able to attract a large percentage of women voters. The Women’s Reservation Bill, which ensures 33% reservation in parliamentary and assembly seats, is going to enhance and consolidate this support. It may bring a large number of new women voters and add substantially to the BJP’s female cadre. It may give PM Modi long-lasting political capital among women, across caste and religion. The timing of the Bill is bound to impact the 2024 election and forthcoming state elections.</p>
+            <p className=' text-center text-base'>The Women’s Reservation Bill, 
+             named the ‘Nari Shakti Vandan Adhiniyam’ has been passed by the Parliament. The 128th amendment to the Indian Constitution, it is set to expand women’s participation in politics and policymaking at the state and national level. It will certainly create conditions for more women to lead, and catalyse a deeper democracy,  a hope expressed by Prime Minister Narendra Modi. It will redefine the nature of political action, and will make politics more truly representative.
+         Here, I assess the mobilisational impact of women’s reservation in electoral politics, especially
+       in the 2024 parliamentary election.
+      As various electoral results show,  the BJP led by PM Narendra 
+    Modi has been able to attract a large percentage of women voters. The Women’s Reservation 
+    Bill, which ensures 33% reservation in parliamentary and assembly seats, is going to enhance and consolidate this support. It may bring a large number of new women voters and add substantially to the BJP’s female cadre. It may give PM Modi long-lasting political capital among women, across caste and religion. The timing of the Bill is bound to impact the 2024 election and forthcoming state elections.</p>
       <img
          src='/thumbnail1.jpg'
          alt='img'
