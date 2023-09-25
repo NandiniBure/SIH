@@ -11,13 +11,18 @@ import Report from '@/components/Report/Report'
 import { FeedBackOne } from '@/components/feedback/FeedBackOne'
 import Login from '@/components/Auth/Login'
 import SignUp from '@/components/Auth/SignUp'
+import Videoform from '@/components/video/Videoform'
+import BlogForm from '@/components/blogs/BlogForm'
+import AnnouncementForm from '@/components/Anouncement/AnnouncementForm'
+import AnnoucementDetails from '@/components/Anouncement/AnnoucementDetails'
+import BlogDetails from '@/components/blogs/BlogDetails'
 
 export default function Home() {
   return (
-    <div className="  bg-lime-100">
-        {/* <Header/> */}
-       <SignUp/>
-        {/* <Footer className=""/> */}
+    <div className="bg-lime-100">
+        <Header/>
+        <AnnoucementDetails/>
+         {/* <Footer/> */}
     </div>
   )
 }
